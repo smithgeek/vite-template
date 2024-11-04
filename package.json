@@ -8,7 +8,6 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-		"yarnsdk:vscode": "yarn dlx @yarnpkg/sdks vscode",
 		"addui": "yarn dlx shadcn@latest add --",
 		"generate": "kubb generate --config kubb.config.ts"
 	},
